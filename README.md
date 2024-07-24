@@ -2,7 +2,7 @@
 
 > clone this repo
 ```
-git clone https://github.com/Sandip-Kanzariya/Shoes-Shopping-App-In-Flutter.git
+git clone https://github.com/MuhammadTalhakhan2003/SocialSwirlFinal.git
 ```
 > [Follow this to connect firebase ](https://firebase.google.com/docs/flutter/setup?platform=ios)
 
